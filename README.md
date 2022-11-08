@@ -1,7 +1,7 @@
 - 👋 Hi, I’m SOHYEON
 - 👀 나는 JAVA를 4.15일 처음배웠어
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 🌱 교육기간 : 2022.04.08-2022.11.14
+- 💞️ 백엔드개발자(가 되고싶음)
 - 📫 How to reach me ...
 
 <!---
