@@ -4,10 +4,9 @@
 
 
 - 👋 Hi, I’m SOHYEON
-- 👀 나는 JAVA를 4.15일 처음배웠어
-- 🌱 교육기간 : 2022.04.08-2022.11.14
-- 💞️ 백엔드개발자
-- 📫 How to reach me ...
+- 👀 JAVA StartStudy Date.2022.04.08
+- 🌱 Education Period : 2022.04.08-2022.11.14
+- 💞️ Back-End Developer
 
 🌱Tech Stack🌱
 <div>
