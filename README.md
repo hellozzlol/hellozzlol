@@ -15,6 +15,7 @@
 	<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
 	<img src="https://img.shields.io/badge/JavaScript-EF2D5E?style=flat&logo=JavaScript&logoColor=white" />
 	<img src="https://img.shields.io/badge/PHP-64BC4B?style=flat&logo=PHP&logoColor=white" />
+	<img src="https://img.shields.io/badge/Oracle-64BC4B?style=flat&logo=Oracle&logoColor=white" />
 
 </div>
 <!---
